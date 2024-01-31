@@ -2,8 +2,7 @@
 
 ## Description
 
-A brief description of the project.
-
+A School management project.
 ## Functionalities
 
 This project aims to implement the following functionalities:
@@ -24,6 +23,3 @@ Functionalities that weren't implemented in to the program (Because of "Time"ðŸ˜
 ## Usage
 
 This project uses a CLI to execute commands use "gcc -o school school.c" then use "./school" to start program
-
-
-
